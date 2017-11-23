@@ -63,6 +63,8 @@ public class DemoApplication implements CommandLineRunner{
         System.out.println("Number of tours =" + tourService.total());
     }
 
+
+
     /**
      * Helper class to import the records in the ExploreCalifornia.json
      */
